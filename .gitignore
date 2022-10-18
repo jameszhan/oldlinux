@@ -1,0 +1,11 @@
+.idea/
+*.ipr
+*.iws
+*.iml
+
+*.o
+*.obj
+*.tmp
+*.dmg
+
+have_makefile
